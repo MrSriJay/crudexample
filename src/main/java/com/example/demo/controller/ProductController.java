@@ -66,7 +66,7 @@ public class ProductController {
 	
 	
 	//Upload from CSV
-	@PostMapping("/uploadproduct")
+	@PostMapping("/uploadproducts")
 	  public ResponseEntity<ResponseMessage> uploadFile(@RequestParam("file") MultipartFile file) {
 	    String message = "";
 
