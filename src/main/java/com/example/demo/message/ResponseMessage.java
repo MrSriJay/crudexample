@@ -1,4 +1,4 @@
-package com.example.message;
+package com.example.demo.message;
 
 public class ResponseMessage {
 	
