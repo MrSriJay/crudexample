@@ -1,4 +1,4 @@
-# crudexample(Review board)
+# crudexample(ReviewBoard)
 ----------------------------------------------
 
 Simple Java Spring Application with MYSQL Database
