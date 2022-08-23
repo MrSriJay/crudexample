@@ -3,7 +3,7 @@
 
 Simple Java Spring Application with MYSQL Database
 
-  1. Performs CRUD operations
+  1. Performs CRUD operations.
   2. Inserting data using a .csv file
 
 Instruction to setup the appplication
